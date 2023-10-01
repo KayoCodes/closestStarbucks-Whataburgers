@@ -1,0 +1,179 @@
+The 30 closest stores to (29.5827351) (-98.621094) 
+596 6803 N Loop 1604 W San Antonio Texas 78249 29.5890169 -98.6222092 0.439 miles
+717 12808 Frontage Road San Antonio Texas 78249 29.5636372 -98.5922352 2.179 miles
+1008 18303 W Interstate 10 Frontage Rd San Antonio Texas 78257 29.6145616 -98.6040357 2.426 miles
+699 6391 Babcock Rd San Antonio Texas 78240 29.5437719 -98.6139845 2.726 miles
+698 9263 N Loop 1604 W San Antonio Texas 78249 29.5555431 -98.6671708 3.346 miles
+1147 4050 N Loop 1604 W Shavano Park Texas 78231 29.5999846 -98.5608781 3.809 miles
+327 11003 NW Military Hwy San Antonio Texas 78231 29.5554192 -98.5347036 5.524 miles
+1106 8002 Fredericksburg Rd San Antonio Texas 78229 29.5136875 -98.5689469 5.708 miles
+316 7016 Bandera Rd Leon Valley Texas 78238 29.4992891 -98.624593 5.769 miles
+1101 25111 Interstate 10 San Antonio Texas 78257 29.6746402 -98.6364488 6.417 miles
+794 14646 Blanco Rd San Antonio Texas 78216 29.576742 -98.5128268 6.519 miles
+749 18330 Blanco Rd San Antonio Texas 78258 29.6110584 -98.5079591 7.073 miles
+985 4590 NW Loop 410 San Antonio Texas 78229 29.4888495 -98.5735088 7.09 miles
+755 2557 NW Loop 410 San Antonio Texas 78230 29.5125364 -98.5347006 7.106 miles
+329 8756 Grissom Rd San Antonio Texas 78251 29.4792563 -98.6573728 7.475 miles
+285 4502 Fredericksburg Rd Balcones Heights Texas 78201 29.489949 -98.5507076 7.681 miles
+315 3202 Wurzbach Rd San Antonio Texas 78238 29.4665286 -98.6221987 8.029 miles
+790 5760 W Loop 1604 N San Antonio Texas 78251 29.4912135 -98.7048705 8.084 miles
+711 10011 San Pedro San Antonio Texas 78216 29.5319128 -98.4969273 8.248 miles
+180 12034 Culebra Rd San Antonio Texas 78253 29.5034532 -98.7307164 8.569 miles
+200 14543 Brook Hollow Blvd San Antonio Texas 78232 29.5799085 -98.47618 8.71 miles
+367 2727 West Ave San Antonio Texas 78201 29.4855835 -98.5263405 8.804 miles
+1070 23522 Wilderness Oak San Antonio Texas 78258 29.6594784 -98.4998968 9.006 miles
+660 18417 U.S. 281 Access Road San Antonio Texas 78258 29.6107627 -98.4689317 9.345 miles
+15 5900 San Pedro Ave San Antonio Texas 78212 29.4886864 -98.498932 9.806 miles
+661 8481 N US Highway 281 San Antonio Texas 78216 29.6297526 -98.4597697 10.221 miles
+924 8319 State Highway 151 San Antonio Texas 78245 29.4372051 -98.6517868 10.223 miles
+784 8426 Broadway St San Antonio Texas 78209 29.5159908 -98.4644204 10.486 miles
+839 2203 E Evans Rd San Antonio Texas 78259 29.6367877 -98.4545503 10.679 miles
+149 4646 W Commerce St San Antonio Texas 78237 29.4303507 -98.5536925 11.282 miles
+
+
+The 25 closest stores to (29.4259671) (-98.4883306) 
+1025 412 E Commerce St San Antonio Texas 78205 29.4238514 -98.4888746 0.15 miles
+1055 516 W Cypress San Antonio Texas 78212 29.4403209 -98.499661 1.204 miles
+399 1118 Roosevelt Avenue San Antonio Texas 78210 29.392777 -98.4857898 2.298 miles
+734 3130 Broadway St San Antonio Texas 78209 29.4556589 -98.4699819 2.33 miles
+382 303 Roland Rd San Antonio Texas 78210 29.4025888 -98.4427354 3.184 miles
+814 AT&T Center Parkway San Antonio Texas 78219 29.4339838 -98.4336948 3.334 miles
+160 3500 S New Braunfels San Antonio Texas 78223 29.383797 -98.4607695 3.353 miles
+381 4720 Interstate 35 S San Antonio Texas 78211 29.3788296 -98.5125266 3.568 miles
+149 4646 W Commerce St San Antonio Texas 78237 29.4303507 -98.5536925 3.945 miles
+15 5900 San Pedro Ave San Antonio Texas 78212 29.4886864 -98.498932 4.38 miles
+367 2727 West Ave San Antonio Texas 78201 29.4855835 -98.5263405 4.711 miles
+782 503 SW Military Dr San Antonio Texas 78221 29.3570152 -98.4995735 4.812 miles
+1052 1243 Austin Highway San Antonio Texas 78209 29.4889929 -98.4447922 5.082 miles
+112 7007 S Zarzamora St San Antonio Texas 78224 29.3579938 -98.5345534 5.459 miles
+285 4502 Fredericksburg Rd Balcones Heights Texas 78201 29.489949 -98.5507076 5.799 miles
+834 3239 SE Military Dr San Antonio Texas 78223 29.3521502 -98.4355157 6.01 miles
+352 5075 Rigsby Ave San Antonio Texas 78222 29.3987578 -98.3916586 6.115 miles
+784 8426 Broadway St San Antonio Texas 78209 29.5159908 -98.4644204 6.384 miles
+755 2557 NW Loop 410 San Antonio Texas 78230 29.5125364 -98.5347006 6.6 miles
+363 4635 Rittiman Rd San Antonio Texas 78218 29.484475 -98.4005942 6.649 miles
+985 4590 NW Loop 410 San Antonio Texas 78229 29.4888495 -98.5735088 6.718 miles
+711 10011 San Pedro San Antonio Texas 78216 29.5319128 -98.4969273 7.338 miles
+1106 8002 Fredericksburg Rd San Antonio Texas 78229 29.5136875 -98.5689469 7.762 miles
+298 8300 N IH 35 Windcrest Texas 78239 29.5133423 -98.3960228 8.202 miles
+949 12510 SW Loop 410 San Antonio Texas 78224 29.3211609 -98.5543353 8.26 miles
+
+
+The 20 closest stores to (27.5458088) (-99.6752923) 
+602 10112 FM 1472 Laredo Texas 78045 27.5926283 -99.5132623 10.438 miles
+69 4902 San Bernardo Laredo Texas 78041 27.5447862 -99.5048487 10.442 miles
+702 202 W. Del Mar Blvd. Laredo Texas 78041 27.5680358 -99.4989857 10.908 miles
+845 9102 Mcpherson Rd Laredo Texas 78045 27.5915036 -99.4796407 12.392 miles
+669 7110 McPherson Rd. Laredo Texas 78041 27.5670094 -99.4735408 12.445 miles
+47 2118 Guadalupe St Laredo Texas 78043 27.5069269 -99.4745827 12.588 miles
+335 2701 E Saunders St Laredo Texas 78041 27.530138 -99.4686784 12.705 miles
+154 2420 NE Bob Bullock Loop Laredo Texas 78043 27.6128434 -99.4703996 13.376 miles
+837 809 Riverhill Dr Laredo Texas 78046 27.4604414 -99.4780544 13.45 miles
+868 7010 Lancer Rd Laredo Texas 78041 27.5597494 -99.4482049 13.944 miles
+741 4416 Highway 359 Laredo Texas 78043 27.4978185 -99.4489283 14.261 miles
+593 505 US-83 Roma Texas 78584 26.402636 -99.0063856 89.081 miles
+829 454 S Bibb Ave Eagle Pass Texas 78852 28.7030999 -100.4826896 93.885 miles
+317 101 US-281 Falfurrias Texas 78355 27.2267507 -98.1417504 96.631 miles
+851 141 S U.S. Hwy 281 Alice Texas 78332 27.7478829 -98.1119634 96.697 miles
+174 4515 E US Hwy 83 Rio Grande City Texas 78582 26.3715441 -98.7986316 97.455 miles
+456 4143 US Hwy 83 E Rio Grande City Texas 78582 26.3715471 -98.7986083 97.456 miles
+5 1242 E Main St. Alice Texas 78332 27.7538113 -98.0596678 99.92 miles
+4 510 S 14th St Kingsville Texas 78363 27.5124514 -97.8556869 111.512 miles
+800 2701 S US Hwy 77 Bypass Kingsville Texas 78363 27.4908138 -97.8482666 112.018 miles
+
+
+The 20 closest stores to (30.28575023) (-97.7417364) 
+992 2800 Guadalupe St Austin Texas 78705 30.2934511 -97.7421583 0.533 miles
+346 601 Barton Springs Rd Austin Texas 78704 30.2580521 -97.7506867 1.987 miles
+162 3210 E Martin Luther King Jr Blvd Austin Texas 78721 30.283093 -97.7029563 2.321 miles
+576 6205 N Lamar Blvd Austin Texas 78752 30.3304043 -97.7229788 3.282 miles
+84 6106 Cameron Rd Austin Texas 78723 30.3192409 -97.698206 3.478 miles
+149 1616 E Oltorf St Austin Texas 78741 30.2337527 -97.7394211 3.595 miles
+614 1908 W Ben White Blvd Austin Texas 78704 30.2303616 -97.7871572 4.69 miles
+347 2801 W Anderson Ln Austin Texas 78757 30.358676 -97.737075 5.046 miles
+132 9516 N Lamar Blvd Austin Texas 78753 30.3653298 -97.6962551 6.131 miles
+181 2901 Spirit of Texas Dr Austin Texas 78719 30.2107605 -97.6675045 6.817 miles
+321 801 E William Cannon Dr Austin Texas 78745 30.1902276 -97.7722747 6.847 miles
+910 6611 S Mo Pac Expy Austin Texas 78749 30.2199628 -97.8353433 7.202 miles
+481 11135 N Interstate Hwy 35 Austin Texas 78753 30.3754557 -97.676161 7.329 miles
+884 9300 S Interstate 35 Austin Texas 78748 30.1631095 -97.7903675 8.957 miles
+809 3400 W Slaughter Ln Austin Texas 78748 30.182946 -97.8474412 9.501 miles
+907 6301 W Parmer Ln Austin Texas 78729 30.445215 -97.7439195 11.019 miles
+736 14310-A IH 35 Austin Texas 78728 30.433222 -97.6708616 11.031 miles
+1022 8300 N FM 620 Austin Texas 78726 30.423726 -97.8467399 11.405 miles
+1108 12003 E US 290 Manor Texas 78653 30.3486005 -97.5402313 12.779 miles
+177 17000 N RM 620 Round Rock Texas 78681 30.4660654 -97.8035627 12.992 miles
+
+
+The 15 closest stores to (39.7642548) (-104.9951942) 
+1095 4196 Highway 528 NE Rio Rancho New Mexico 87144 35.328719 -106.5713206 318.384 miles
+714 3531 State Highway 528 NW Albuquerque New Mexico 87114 35.206323 -106.6503611 327.722 miles
+697 4201 Osuna Rd NE Albuquerque New Mexico 87109 35.1568129 -106.595009 330.2 miles
+842 9500 Candelaria Rd NE Albuquerque New Mexico 87112 35.1157716 -106.5353442 332.094 miles
+245 2808 Carlisle Blvd NE Albuquerque New Mexico 87110 35.1131196 -106.6038496 333.246 miles
+247 200 Menaul Blvd NW Albuquerque New Mexico 87107 35.1102604 -106.6445811 334.034 miles
+1126 3711 Las Estancias Ct Albuquerque New Mexico 87121 35.0231993 -106.7138583 340.873 miles
+427 734 N Pierce St Amarillo Texas 79107 35.2207917 -101.8301242 358.623 miles
+371 3401 S Coulter St Amarillo Texas 79109 35.176088 -101.9197863 359.022 miles
+307 2424 S Georgia St Amarillo Texas 79109 35.1877597 -101.8666533 359.682 miles
+114 4111 SW 45th Ave Amarillo Texas 79109 35.1633732 -101.8823553 360.769 miles
+902 3620 E Interstate 40 Amarillo Texas 79103 35.19212 -101.7937763 361.336 miles
+758 6120 Hollywood Rd Amarillo Texas 79110 35.1172861 -101.9039557 363.048 miles
+731 2110 N Main St Roswell New Mexico 88201 33.418167 -104.5236086 439.255 miles
+915 5512 4th St Lubbock Texas 79416 33.5927534 -101.9336473 458.84 miles
+
+
+The 15 closest stores to (36.1865589) (-86.9253286) 
+184 1621 Beltline Rd SW Decatur Alabama 35601 34.5667202 -87.01217 112.028 miles
+896 5931 Trussville Crossings Pkwy Birmingham Alabama 35235 33.6429862 -86.6259535 176.562 miles
+920 1601 Main Street Fultondale Alabama 35068 33.6091042 -86.7999885 178.228 miles
+171 1824 Ashville Rd Leeds Alabama 35094 33.5623168 -86.522806 182.749 miles
+116 111 Resource Center Pkwy Birmingham Alabama 35242 33.4254906 -86.7052362 191.182 miles
+959 557 Cahaba Valley Road Pelham Alabama 35124 33.3346429 -86.7856489 197.21 miles
+927 1101 1st Street South Alabaster Alabama 35007 33.2333074 -86.81001 204.157 miles
+1140 1301 McFarland Blvd E Tuscaloosa Alabama 35404 33.2006015 -87.5248059 209.102 miles
+1118 820 Skyland Blvd. Tuscaloosa Alabama 35405 33.1658502 -87.5496097 211.704 miles
+968 2280 7th Street South Clanton Alabama 35046 32.8008917 -86.5745934 234.78 miles
+192 2501 Gateway Drive Opelika Alabama 36801 32.6210849 -85.4034952 261.172 miles
+186 6970 Eastchase Loop Montgomery Alabama 36117 32.3592528 -86.1694138 267.94 miles
+864 800 E County Line Rd Ridgeland Mississippi 39157 32.400143 -90.1436116 319.627 miles
+1113 1724 Old Fannin Rd Flowood Mississippi 39232 32.3420434 -90.0653706 320.437 miles
+836 1320 North High Street Jackson Mississippi 39202 32.3036632 -90.1689771 325.983 miles
+
+
+The 15 closest stores to (33.6050991) (-112.4052331) 
+764 14251 West Indian School Bypass Goodyear Arizona 85395 33.485423 -112.3654898 8.58 miles
+220 8922 W Bell Rd Peoria Arizona 85382 33.6385785 -112.2511389 9.163 miles
+537 1460 North Dysart Road Avondale Arizona 85323 33.4495034 -112.3420894 11.349 miles
+585 2040 N 75th Ave Phoenix Arizona 85035 33.4706678 -112.2211936 14.093 miles
+220 4280 W Bell Rd Glendale Arizona 85308 33.6397815 -112.1511951 14.811 miles
+222 2910 W Thunderbird Rd Phoenix Arizona 85053 33.6111753 -112.1209174 16.366 miles
+756 2460 W Bethany Home Rd Phoenix Arizona 85015 33.5252427 -112.111491 17.789 miles
+217 450 W Indian School Rd Phoenix Arizona 85013 33.4950886 -112.0799368 20.215 miles
+535 1840 S 19th Ave Phoenix Arizona 85009 33.4297562 -112.1003365 21.337 miles
+218 737 E McDowell Rd Phoenix Arizona 85006 33.4654736 -112.0635425 21.917 miles
+219 2901 E Bell Rd Phoenix Arizona 85032 33.6402612 -112.0196318 22.318 miles
+170 12440 N Tatum Blvd Phoenix Arizona 85032 33.6006294 -111.9801718 24.463 miles
+761 4610 S 48th St Phoenix Arizona 85040 33.4057994 -111.9788211 28.163 miles
+1172 7134 E Thomas Rd Scottsdale Arizona 85251 33.480758 -111.9280104 28.794 miles
+215 2955 N Hayden Rd Scottsdale Arizona 85251 33.4816989 -111.9085096 29.849 miles
+
+
+The 15 closest stores to (40.6974034) (-74.1197636) 
+909 463773 State Rd 200 Yulee Florida 32097 30.6276893 -81.5507787 810.475 miles
+184 1621 Beltline Rd SW Decatur Alabama 35601 34.5667202 -87.01217 821.582 miles
+865 1201 Atlantic Blvd Neptune Beach Florida 32266 30.3240236 -81.4093749 824.965 miles
+874 8840 Beach Blvd Jacksonville Florida 32216 30.2863364 -81.5634472 831.568 miles
+853 7165 Philips Hwy Jacksonville Florida 32256 30.242601 -81.5980889 835.207 miles
+192 2501 Gateway Drive Opelika Alabama 36801 32.6210849 -85.4034952 836.883 miles
+886 7755 Normandy Blvd Jacksonville Florida 32221 30.2959105 -81.7756474 837.015 miles
+171 1824 Ashville Rd Leeds Alabama 35094 33.5623168 -86.522806 841.161 miles
+896 5931 Trussville Crossings Pkwy Birmingham Alabama 35235 33.6429862 -86.6259535 842.237 miles
+973 289 Blanding Blvd Orange Park Florida 32073 30.1714935 -81.7462445 843.724 miles
+185 1778 Blanding Blvd Middleburg Florida 32068 30.1060795 -81.8281359 850.029 miles
+920 1601 Main Street Fultondale Alabama 35068 33.6091042 -86.7999885 851.503 miles
+116 111 Resource Center Pkwy Birmingham Alabama 35242 33.4254906 -86.7052362 855.286 miles
+959 557 Cahaba Valley Road Pelham Alabama 35124 33.3346429 -86.7856489 862.864 miles
+927 1101 1st Street South Alabaster Alabama 35007 33.2333074 -86.81001 868.435 miles
+
+
